@@ -1,7 +1,7 @@
 kiran
 =====
 
-ray-tracer plus photon-mapper for simple offline global illumination
+implements a regular ray-tracer and a photon-mapper
 
 TODO's:
   * properly handle refractions during Russian Roulette
